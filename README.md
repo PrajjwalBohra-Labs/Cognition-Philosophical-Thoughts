@@ -1,6 +1,6 @@
 # Cognition Indian Philosophical Thoughts
 
-> A structured personal research repository for studying Indian philosophy through epistemology, logic, inference, cognition, language, ontology, metaphysics, debate, and related forms of analytical thought — while connecting these ideas with problems of the modern world.
+> A structured personal research repository for studying Indian philosophy through epistemology, logic, inference, cognition, language, ontology, metaphysics, debate, and related forms of analytical thought, while connecting these ideas with problems of the modern world.
 
 ---
 
