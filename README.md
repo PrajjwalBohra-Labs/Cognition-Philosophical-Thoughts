@@ -1,4 +1,4 @@
-# Cognition — Indian Philosophical Thoughts
+# Cognition Indian Philosophical Thoughts
 
 > A structured personal research repository for studying Indian philosophy through epistemology, logic, inference, cognition, language, ontology, metaphysics, debate, and related forms of analytical thought — while connecting these ideas with problems of the modern world.
 
@@ -6,7 +6,7 @@
 
 ## About
 
-**Cognition — Indian Philosophical Thoughts** is a personal study and research repository built around a collection of philosophical texts, reference materials, a structured curriculum, and practical modern applications.
+**Cognition - Indian Philosophical Thoughts** is a personal study and research repository built around a collection of philosophical texts, reference materials, a structured curriculum, and practical modern applications.
 
 The repository is designed around a simple principle:
 
