@@ -1,0 +1,10 @@
+﻿# Comparative Philosophy — Research Papers
+
+- [Smoke and Fire: Sign Inference in Greek and Indian Epistemology](https://link.springer.com/article/10.1007/s10781-024-09572-w)
+- [Comparative Philosophy — PhilPapers](https://philpapers.org/browse/comparative-philosophy)
+- [Journal of Indian Philosophy](https://link.springer.com/journal/10781)
+
+---
+
+Repository path: `resources\papers\Comparative-Philosophy`
+Links are intentionally selected for this folder's specific subject/function.
